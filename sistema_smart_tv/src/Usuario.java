@@ -2,6 +2,7 @@ public class Usuario {
     public static void main(String[] args) throws Exception {
         SmartTv smartTv = new SmartTv();
         
+        /*Sistema contador de canais */
         smartTv.diminuirVolume();
         smartTv.diminuirVolume();
         smartTv.diminuirVolume();
