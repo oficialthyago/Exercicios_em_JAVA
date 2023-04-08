@@ -4,7 +4,13 @@
     // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-        
+        {
+            "type": "java",
+            "name": "Ex4_ParEImpar",
+            "request": "launch",
+            "mainClass": "br.thyago.ExerciciosLoopesArrays.Ex4_ParEImpar",
+            "projectName": "loops-arrays_20509d86"
+        },
         {
             "type": "java",
             "name": "Current File",

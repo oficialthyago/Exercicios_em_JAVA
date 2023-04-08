@@ -1,7 +1,7 @@
 package br.thyago.ExerciciosLoopesArrays;
 
 import java.util.Scanner;
- import java.util.Scanner;
+ 
 /*
 Faça um programa que leia 5 numeros
 e informe o maior numero
